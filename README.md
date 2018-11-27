@@ -1,7 +1,6 @@
-# Relational Education
+# A Scalable, Flexible Augmentation of the Student Education Process
 
-Please see the draft of our [paper](https://github.com/bhairavmehta95/relational-education/blob/master/486-draft.pdf) for more information. Built for an EECS486: Information Retrieval Final Project.
-
+Please see [our paper](https://arxiv.org/abs/1810.09845) for more details, which will appear at the [NIPS 2018 AI for Social Good Workshop](https://aiforsocialgood.github.io/2018/cfp.htm).
 
 ### Dataset used to train NERS Model:
 - Corpus features a tagged portiong from the Groningen Meaning Bank tagged specifically for training a model for named entity extraction.
