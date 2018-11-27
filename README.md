@@ -2,6 +2,8 @@
 
 Please see [our paper](https://arxiv.org/abs/1810.09845) for more details, which will appear at the [NIPS 2018 AI for Social Good Workshop](https://aiforsocialgood.github.io/2018/cfp.htm).
 
+This repository offers a command-line interface to some of the topics discussed in the paper, and we hope to update this repository soon with a cleaner web application which we used for the field studies described.
+
 ### Dataset used to train NERS Model:
 - Corpus features a tagged portiong from the Groningen Meaning Bank tagged specifically for training a model for named entity extraction.
 - [Entity Annotated Corpus](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus)
