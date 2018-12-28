@@ -1,7 +1,6 @@
 import json
 import psycopg2
 import os
-import json
 
 # globals
 DB_NAME = os.environ.get('sf_db_name')
@@ -214,4 +213,4 @@ def add_question(class_id, user_id, question_text, datasources, scored_terms):
 	# Create a cursor
 	cur = conn.cursor()
 
-	
+
